@@ -27,6 +27,7 @@
 #include <pthread.h>
 
 #include <cv.h>
+#include <opencv2/videoio/videoio_c.h>
 #include <highgui.h>
 
 #define MAXIDX 100
