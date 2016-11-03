@@ -2,7 +2,7 @@ package = "camera"
 version = "1.0-0"
 
 source = {
-   url = "git://github.com/clementfarabet/lua---camera",
+   url = "git://github.com/dvad924/lua---camera",
    tag = "1.0-0"
 }
 
